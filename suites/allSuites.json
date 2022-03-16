@@ -1,0 +1,9 @@
+{
+  "DebugHasTabs": [
+    "./src/specs/Disciplines/has-tabs.spec.ts"
+  ],
+  "Disciplines": [
+    "./src/specs/Disciplines/has-tabs.spec.ts",
+    "./src/specs/Disciplines/show-all-tabs-content.spec.ts"
+  ]
+}
